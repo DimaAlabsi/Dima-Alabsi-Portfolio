@@ -48,21 +48,21 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/creativetim"
+                  href=" http://www.linkedin.com/in/dima-alabsi8"
                   id="tooltip475038074"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-twitter" />
+                    <i className="fa-linkedin-square" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip475038074">
-                  Follow us
+                  Follow me on LinkedIn
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.facebook.com/dema.alabsi.1"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -71,26 +71,26 @@ class SimpleFooter extends React.Component {
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
-                  Like us
+                  Like me
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  href="https://www.instagram.com/dima_alabsi8/"
                   id="tooltip829810202"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-dribbble" />
+                    <i className="fa fa-instagram" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip829810202">
-                  Follow us
+                  Follow me on Instagram
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href=" https://github.com/DimaAlabsi"
                   id="tooltip495507257"
                   target="_blank"
                 >
