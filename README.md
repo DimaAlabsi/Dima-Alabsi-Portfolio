@@ -222,3 +222,20 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+----------------------------
+
+Number and name of feature: Deploy and Extend Your Portfolio
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 5:00 pm
+
+Finish time: 7:30 pm
+
+Actual time needed to complete: 2 hours and 30 minutes
+
+----------------------
+
+ The link to the deployed version of my latest code : https://dima-alabsi-portfolio.netlify.app/profile-page
+
