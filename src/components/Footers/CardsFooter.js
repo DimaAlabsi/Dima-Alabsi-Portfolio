@@ -42,7 +42,7 @@ class CardsFooter extends React.Component {
           <Container className="container-lg">
             <Row>
               <Col className="mb-5 mb-md-0" md="6">
-                <Card className="card-lift--hover shadow border-0">
+                {/* <Card className="card-lift--hover shadow border-0">
                   <Link to="/landing-page">
                     <CardImg
                       alt="..."
@@ -59,17 +59,17 @@ class CardsFooter extends React.Component {
                       src={profile}
                     />
                   </Link>
-                </Card>
+                </Card> */}
               </Col>
             </Row>
           </Container>
           <Container>
             <Row className="row-grid align-items-center my-md">
               <Col lg="6">
-                <h3 className="text-primary font-weight-light mb-2">
-                  Thank you for supporting us!
+              <h3 className=" text-primary font-weight-light mb-2">
+                  Thank you for supporting me!
                 </h3>
-                <h4 className="mb-0 font-weight-light">
+                <h4 className=" mb-0 font-weight-light">
                   Let's get in touch on any of these platforms.
                 </h4>
               </Col>
@@ -77,21 +77,21 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/creativetim"
+                  href=" http://www.linkedin.com/in/dima-alabsi8"
                   id="tooltip475038074"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-twitter" />
+                    <i className="fa-linkedin-square" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip475038074">
-                  Follow us
+                  Follow me on LinkedIn
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.facebook.com/dema.alabsi.1"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -100,26 +100,26 @@ class CardsFooter extends React.Component {
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
-                  Like us
+                  Like me
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  href="https://www.instagram.com/dima_alabsi8/"
                   id="tooltip829810202"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-dribbble" />
+                    <i className="fa fa-instagram" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip829810202">
-                  Follow us
+                  Follow me on Instagram
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href=" https://github.com/DimaAlabsi"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -141,12 +141,12 @@ class CardsFooter extends React.Component {
                     href="https://www.creative-tim.com?ref=adsr-footer"
                     target="_blank"
                   >
-                    Creative Tim
+                  Dima Alabsi
                   </a>
                   .
                 </div>
               </Col>
-              <Col md="6">
+              {/* <Col md="6">
                 <Nav className="nav-footer justify-content-end">
                   <NavItem>
                     <NavLink
@@ -181,7 +181,7 @@ class CardsFooter extends React.Component {
                     </NavLink>
                   </NavItem>
                 </Nav>
-              </Col>
+              </Col> */}
             </Row>
           </Container>
         </footer>

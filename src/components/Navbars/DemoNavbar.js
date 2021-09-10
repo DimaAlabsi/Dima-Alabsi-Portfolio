@@ -74,12 +74,12 @@ class DemoNavbar extends React.Component {
             id="navbar-main"
           >
             <Container>
-              <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
+              {/* <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
                 <img
                   alt="..."
                   src={reactWhite}
                 />
-              </NavbarBrand>
+              </NavbarBrand> */}
               <button className="navbar-toggler" id="navbar_global">
                 <span className="navbar-toggler-icon" />
               </button>
@@ -211,6 +211,7 @@ class DemoNavbar extends React.Component {
                       Like me on Facebook
                     </UncontrolledTooltip>
                   </NavItem>
+
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
@@ -259,21 +260,21 @@ class DemoNavbar extends React.Component {
                       Star me on Github
                     </UncontrolledTooltip>
                   </NavItem>
-                  {/* <NavItem className="d-none d-lg-block ml-lg-4">
+                  <NavItem className="d-none d-lg-block ml-lg-4">
                     <Button
-                      className="btn-neutral btn-icon"
-                      color="default"
-                      href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-navbar"
+                      className=""
+                      color="white"
+                      href="mailto:dema.yaser8@gmail.com"
                       target="_blank"
                     >
-                      <span className="btn-inner--icon">
+                      {/* <span className="btn-inner--icon">
                         <i className="fa fa-cloud-download mr-2" />
-                      </span>
+                      </span> */}
                       <span className="nav-link-inner--text ml-1">
-                        Download
+                        Gmail
                       </span>
                     </Button>
-                  </NavItem> */}
+                  </NavItem>
                 </Nav>
               </UncontrolledCollapse>
             </Container>
