@@ -88,13 +88,13 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
-                          onClick={e => e.preventDefault()}
+                          href="mailto:dema.yaser8@gmail.com"
+                          // onClick={e => e.preventDefault()}
                           size="sm"
                         >
                           Connect
                         </Button>
-                        <Button
+                        {/* <Button
                           className="float-right"
                           color="default"
                           href="#pablo"
@@ -102,7 +102,7 @@ class Profile extends React.Component {
                           size="sm"
                         >
                           Message
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
@@ -146,14 +146,11 @@ class Profile extends React.Component {
                         <p>
                          Dima Alabsi, 24 years old from Jordan. I graduated with BA degree in English language and literature in 2019.
                           I like to learn more and more about programming and software development and I'm so interested on that.
-                          I recently started studying a course with ASAC about web development .
-
- I am interested in technology because of its importance now and for sure in the future. I am very passionate about software and this course encourages me to do so. I started this course when I felt the great need to develop all aspects of my life .
-Also I'm interested in the world of music..
+                          
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        {/* <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
-                        </a>
+                        </a> */}
                       </Col>
                     </Row>
                   </div>

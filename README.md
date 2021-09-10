@@ -169,7 +169,7 @@ Argon Design System React
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/creativetimofficial/public-assets/blob/main/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/opera-logo.png" width="64" height="64">
+<img src="https://github.com/creativetimofficial/public-assets/blob/main/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/firefox-logo." width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/opera-logo.png" width="64" height="64">
 
 
 
